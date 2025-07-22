@@ -1,6 +1,6 @@
-# Blog Title :link: https://focusy33.github.io/focusland.github.io 
-### :page_facing_up: [1](https://focusy33.github.io/focusland.github.io/tag.html) 
+# Blog Title :link: https://focusy33.github.io/land 
+### :page_facing_up: [1](https://focusy33.github.io/land/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 4 
-### :alarm_clock: 2025-07-22 16:38:21 
+### :alarm_clock: 2025-07-22 16:40:42 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
